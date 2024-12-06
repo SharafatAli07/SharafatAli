@@ -1,0 +1,2 @@
+{% if block.settings.video-liquid != blank %} 
+{% endif %}
